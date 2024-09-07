@@ -1,0 +1,4 @@
+argepase
+random
+requests
+colorama
