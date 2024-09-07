@@ -1,4 +1,2 @@
-argepase
-random
 requests
 colorama
